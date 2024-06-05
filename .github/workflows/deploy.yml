@@ -1,4 +1,4 @@
-name: Jackpiro CI
+name: JackPiro CI
 
 on:
   push:
