@@ -2,7 +2,7 @@ name: JackPiro CI
 
 on:
   push:
-    branches: [main]
+    branches: [test]
 
 jobs:
   build:
